@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"prisma.prisma",
+		"irongeek.vscode-env",
+		"dbaeumer.vscode-eslint",
+		"pkief.material-icon-theme"
+	]
+}

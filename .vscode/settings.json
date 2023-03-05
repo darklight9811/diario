@@ -1,0 +1,17 @@
+{
+  "editor.tabSize": 4,
+  "editor.insertSpaces": false,
+  "files.associations": {
+    ".env.local": "env",
+    ".env.development": "env",
+    ".env.production": "env"
+  },
+  "material-icon-theme.files.associations": {
+    "story.tsx": "storybook"
+  },
+  "material-icon-theme.folders.associations": {
+    "ui": "Components"
+  },
+  "typescript.tsdk": "node_modules\\.pnpm\\typescript@4.9.5\\node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
